@@ -1,0 +1,12 @@
+{
+  "name": "Buscaminas",
+  "displayName": "Buscaminas",
+  "expo": {
+    "name": "Buscaminas",
+    "slug": "Buscaminas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
